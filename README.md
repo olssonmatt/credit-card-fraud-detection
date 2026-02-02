@@ -3,3 +3,5 @@
  - A quick project aimed be a proof of concept as well as an effort to bolster the explainations models
 
 ## 
+ - Consider the formula for a line, $y = mx + b$
+ - 
